@@ -1,0 +1,7 @@
+Analisis
+Diseño
+Coding
+Pruebas
+Despliegue
+Mantenamiento
+Rezar
